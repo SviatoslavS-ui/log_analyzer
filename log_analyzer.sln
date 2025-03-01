@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log_analyzer", "log_analyzer.csproj", "{564A4E36-6255-4A26-B083-FF2843A17D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAnalyzer.Tests", "..\LogAnalyzer.Tests\LogAnalyzer.Tests.csproj", "{46F157EF-5956-4A57-879F-C028164E0B33}"
+	ProjectSection(ProjectDependencies) = postProject
+		{564A4E36-6255-4A26-B083-FF2843A17D32} = {564A4E36-6255-4A26-B083-FF2843A17D32}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564A4E36-6255-4A26-B083-FF2843A17D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564A4E36-6255-4A26-B083-FF2843A17D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564A4E36-6255-4A26-B083-FF2843A17D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564A4E36-6255-4A26-B083-FF2843A17D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F157EF-5956-4A57-879F-C028164E0B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F157EF-5956-4A57-879F-C028164E0B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F157EF-5956-4A57-879F-C028164E0B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F157EF-5956-4A57-879F-C028164E0B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
