@@ -3,10 +3,23 @@
   "WorkspaceRootPath": "C:\\Code\\Github\\log_analyzer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46F157EF-5956-4A57-879F-C028164E0B33}|..\\LogAnalyzer.Tests\\LogAnalyzer.Tests.csproj|c:\\code\\github\\loganalyzer.tests\\logparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|c:\\code\\github\\log_analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F157EF-5956-4A57-879F-C028164E0B33}|..\\LogAnalyzer.Tests\\LogAnalyzer.Tests.csproj|c:\\code\\github\\loganalyzer.tests\\logfiltertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|c:\\code\\github\\log_analyzer\\loganalyzer.core\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:loganalyzer.core\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|c:\\code\\github\\log_analyzer\\loganalyzer.core\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:loganalyzer.core\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|c:\\code\\github\\log_analyzer\\loganalyzer.core\\logparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:loganalyzer.core\\logparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F157EF-5956-4A57-879F-C028164E0B33}|..\\LogAnalyzer.Tests\\LogAnalyzer.Tests.csproj|c:\\code\\github\\loganalyzer.tests\\logparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46F157EF-5956-4A57-879F-C028164E0B33}|..\\LogAnalyzer.Tests\\LogAnalyzer.Tests.csproj|c:\\code\\github\\loganalyzer.tests\\logfiletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -16,16 +29,7 @@
       "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:loganalyzer.files\\logfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|c:\\code\\github\\log_analyzer\\loganalyzer.core\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:loganalyzer.core\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|c:\\code\\github\\log_analyzer\\loganalyzer.core\\logparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:loganalyzer.core\\logparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|c:\\code\\github\\log_analyzer\\loganalyzer.core\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:loganalyzer.core\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F157EF-5956-4A57-879F-C028164E0B33}|..\\LogAnalyzer.Tests\\LogAnalyzer.Tests.csproj|c:\\code\\github\\loganalyzer.tests\\logfiltertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46F157EF-5956-4A57-879F-C028164E0B33}|..\\LogAnalyzer.Tests\\LogAnalyzer.Tests.csproj|c:\\code\\github\\loganalyzer.tests\\loganalyzer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|c:\\code\\github\\log_analyzer\\log_analyzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:log_analyzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|c:\\code\\github\\log_analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564A4E36-6255-4A26-B083-FF2843A17D32}|log_analyzer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogFileTests.cs",
-              "DocumentMoniker": "C:\\Code\\Github\\LogAnalyzer.Tests\\LogFileTests.cs",
-              "RelativeDocumentMoniker": "..\\LogAnalyzer.Tests\\LogFileTests.cs",
-              "ToolTip": "C:\\Code\\Github\\LogAnalyzer.Tests\\LogFileTests.cs",
-              "RelativeToolTip": "..\\LogAnalyzer.Tests\\LogFileTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T13:39:21.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "LogFilterTests.cs",
               "DocumentMoniker": "C:\\Code\\Github\\LogAnalyzer.Tests\\LogFilterTests.cs",
               "RelativeDocumentMoniker": "..\\LogAnalyzer.Tests\\LogFilterTests.cs",
@@ -71,24 +58,24 @@
               "RelativeToolTip": "..\\LogAnalyzer.Tests\\LogFilterTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:05:07.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:05:07.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "LogFilter.cs",
               "DocumentMoniker": "C:\\Code\\Github\\log_analyzer\\LogAnalyzer.Core\\LogFilter.cs",
               "RelativeDocumentMoniker": "LogAnalyzer.Core\\LogFilter.cs",
               "ToolTip": "C:\\Code\\Github\\log_analyzer\\LogAnalyzer.Core\\LogFilter.cs",
               "RelativeToolTip": "LogAnalyzer.Core\\LogFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T08:12:12.241Z"
+              "WhenOpened": "2025-03-03T08:12:12.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LogAnalyzer.Tests.csproj",
               "DocumentMoniker": "C:\\Code\\Github\\LogAnalyzer.Tests\\LogAnalyzer.Tests.csproj",
               "RelativeDocumentMoniker": "..\\LogAnalyzer.Tests\\LogAnalyzer.Tests.csproj",
@@ -100,20 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "LogParserTests.cs",
               "DocumentMoniker": "C:\\Code\\Github\\LogAnalyzer.Tests\\LogParserTests.cs",
               "RelativeDocumentMoniker": "..\\LogAnalyzer.Tests\\LogParserTests.cs",
               "ToolTip": "C:\\Code\\Github\\LogAnalyzer.Tests\\LogParserTests.cs",
               "RelativeToolTip": "..\\LogAnalyzer.Tests\\LogParserTests.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T18:54:48.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "LogParser.cs",
               "DocumentMoniker": "C:\\Code\\Github\\log_analyzer\\LogAnalyzer.Core\\LogParser.cs",
               "RelativeDocumentMoniker": "LogAnalyzer.Core\\LogParser.cs",
@@ -121,36 +108,64 @@
               "RelativeToolTip": "LogAnalyzer.Core\\LogParser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T18:33:55.192Z"
+              "WhenOpened": "2025-03-01T18:33:55.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LogEntry.cs",
               "DocumentMoniker": "C:\\Code\\Github\\log_analyzer\\LogAnalyzer.Core\\LogEntry.cs",
               "RelativeDocumentMoniker": "LogAnalyzer.Core\\LogEntry.cs",
               "ToolTip": "C:\\Code\\Github\\log_analyzer\\LogAnalyzer.Core\\LogEntry.cs",
               "RelativeToolTip": "LogAnalyzer.Core\\LogEntry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T18:30:46.776Z"
+              "WhenOpened": "2025-03-01T18:30:46.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LogFileProcessor.cs",
               "DocumentMoniker": "C:\\Code\\Github\\log_analyzer\\LogAnalyzer.Files\\LogFileProcessor.cs",
               "RelativeDocumentMoniker": "LogAnalyzer.Files\\LogFileProcessor.cs",
               "ToolTip": "C:\\Code\\Github\\log_analyzer\\LogAnalyzer.Files\\LogFileProcessor.cs",
               "RelativeToolTip": "LogAnalyzer.Files\\LogFileProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:13:54.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Github\\log_analyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Code\\Github\\log_analyzer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwF8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:27:57.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogFileTests.cs",
+              "DocumentMoniker": "C:\\Code\\Github\\LogAnalyzer.Tests\\LogFileTests.cs",
+              "RelativeDocumentMoniker": "..\\LogAnalyzer.Tests\\LogFileTests.cs",
+              "ToolTip": "C:\\Code\\Github\\LogAnalyzer.Tests\\LogFileTests.cs",
+              "RelativeToolTip": "..\\LogAnalyzer.Tests\\LogFileTests.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwD4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:39:21.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "log_analyzer.csproj",
               "DocumentMoniker": "C:\\Code\\Github\\log_analyzer\\log_analyzer.csproj",
               "RelativeDocumentMoniker": "log_analyzer.csproj",
@@ -159,18 +174,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-03T12:12:36.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\Github\\log_analyzer\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Code\\Github\\log_analyzer\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T18:27:57.188Z"
             }
           ]
         }

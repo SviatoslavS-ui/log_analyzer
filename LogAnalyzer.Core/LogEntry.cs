@@ -6,11 +6,19 @@
         public string Level { get; set; }  /// INFO, ERROR, WARNING
         public string Message { get; set; }
 
-        public LogEntry(DateTime dateTime, string level, string Message)
+        public LogEntry(DateTime dateTime, string level, string message)
         {
-            this.Timestamp = dateTime;
-            this.Level = level;
-            this.Message = Message;
+            Timestamp = dateTime;
+            Level = level;
+            Message = message;
+        }
+
+        public override string ToString()
+        {
+            string levelText = string.IsNullOrEmpty(Level) ? "N/A" : Level;
+            string messageText = string.IsNullOrEmpty(Message) ? "No message" : Message;
+
+            return $"{Timestamp:yyyy-MM-dd HH:mm:ss} [{levelText}] : {messageText}";
         }
     }
 
